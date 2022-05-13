@@ -109,6 +109,17 @@
         Any problem with Form or Any other Details Please Contact:
         Amc2022@gmail.com
       </h3>
+
+      <hr />
+    </div>
+
+    <div class="container">
+      <h1 class="my-3 fw-bold">Adminision Form</h1>
+
+      <form method="post">
+        {% csrf_token %} {{AdminForm}}
+        <input type="submit" value="SubmitForm" class="btn btn-success" />
+      </form>
     </div>
 
     <footer class="py-3 my-4">
