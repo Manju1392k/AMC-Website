@@ -8,7 +8,7 @@ class StudentForm(ModelForm):
     class Meta:
         model = StudentDetails
         fields = ['Name', 'Age', 'Father_Name',
-                  'Group', 'Location', 'Mole_One', 'Mole_One']
+                  'Group', 'Location', 'Mole_One', 'Mole_Two']
 
     Name = forms.CharField(widget=forms.TextInput(
         attrs={'class': 'form-control'}))
@@ -22,5 +22,5 @@ class StudentForm(ModelForm):
         widget=forms.TextInput(attrs={'class': 'form-control'}))
     Mole_One = forms.CharField(
         widget=forms.TextInput(attrs={'class': 'form-control'}))
-    Mole_One = forms.CharField(
+    Mole_Two = forms.CharField(
         widget=forms.TextInput(attrs={'class': 'form-control'}))
