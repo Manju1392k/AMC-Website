@@ -12,13 +12,13 @@
 
 # 👁️‍🗨️ Preview of AMC Website
 
-https://user-images.githubusercontent.com/66934377/168270652-9105ecad-0cad-4039-b357-85009706738f.mp4
+https://user-images.githubusercontent.com/66934377/168310328-62b3363d-dff0-4e0b-b5e8-1d77d95b99b3.mp4
 
 ---
 
 # 📱 Preview of AMC Responsive Desgin 
 
-https://user-images.githubusercontent.com/66934377/168270661-ede514ea-7433-4393-9e21-420410f915c7.mp4
+https://user-images.githubusercontent.com/66934377/168310340-d7540cd8-12c7-42a9-9264-b1cb0c4c79ba.mp4
 
 ---
 
